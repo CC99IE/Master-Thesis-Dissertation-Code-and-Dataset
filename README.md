@@ -14,3 +14,5 @@ The repo contains Main.py, the main orchestration for the analysis pipeline. Thi
           
   
 BE AWARE: The Dataset includes viruses that may have been present on Afghanistan's governmental computers at the time of capture, as well as personal data and information. The beloved word that you are looking for to open them is, of course, "infected"
+
+Afganistan Leaks - https://1drv.ms/u/c/7589d66e4d4d116e/EQ5DY09yJn1IoXzFJV1LAdkBLBlmEwwt4vkR3Sxa47kCXA?e=q3f5rw
